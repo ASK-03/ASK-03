@@ -30,6 +30,8 @@ I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelli
 ### Some Stats (Public Only)
 <p align="center" >
 <img alt="Rahul's github stats" src="https://github-readme-stats.vercel.app/api?username=ask-03&show_icons=true&theme=light"  > 
+</p>
+<p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ask-03&" alt="ask-03" />
 </p>
 
