@@ -3,7 +3,7 @@
 <h3 align="center">Passionate developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ask-03&label=Profile%20views&color=0e75b6&style=flat" alt="ask-03" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ASK-03&label=Profile%20views&color=0e75b6&style=flat" alt="ask-03" /> </p>
 
 I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelligence branch. I am also coordinator @DSAI club IIT Bhilai
 
