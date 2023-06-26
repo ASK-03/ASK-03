@@ -9,7 +9,7 @@ I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelli
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ASK-03?tab=repositories](https://github.com/ASK-03?tab=repositories)
+- 👨‍💻 All of my projects are available at [Link](https://github.com/ASK-03?tab=repositories)
 
 - 💬 Ask me about **Machine Learning, Data science, DevOps, Artificial Intelligence, Web-Development**
 
