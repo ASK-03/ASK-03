@@ -21,7 +21,7 @@ I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelli
 <a href="https://linkedin.com/in/ask03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ask03" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19533760" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19533760" height="30" width="40" /></a>
 <a href="https://instagram.com/abhisheksingh_0_3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhisheksingh_0_3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhisheksinghkushwaha22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksinghkushwaha22" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ASK-03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhisheksinghkushwaha22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
