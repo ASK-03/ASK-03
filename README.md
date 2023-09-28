@@ -7,7 +7,7 @@
 
 I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelligence branch. I am also coordinator @DSAI club IIT Bhilai
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [Link](https://github.com/ASK-03?tab=repositories)
 
