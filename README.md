@@ -7,13 +7,15 @@
 
 I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelligence branch. I am also coordinator @DSAI club IIT Bhilai
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m currently learning **Computer System Design**
 
 - 👨‍💻 All of my projects are available at [Link](https://github.com/ASK-03?tab=repositories)
 
-- 💬 Ask me about **Machine Learning, Data science, DevOps, Artificial Intelligence, Web-Development**
+- 💬 Ask me about **Machine Learning, Data science, DevOps, Artificial Intelligence, Web-Development and Computer System Designs**
 
 - 📫 How to reach me **abhisheksinghk@iitbhilai.ac.in**
+
+- 📄 Have a look at my [resume](https://github.com/ASK-03/ASK-03/blob/main/static/resume.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
