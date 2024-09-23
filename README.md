@@ -13,7 +13,7 @@ I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelli
 
 - 💬 Ask me about **Machine Learning, Data science, DevOps, Artificial Intelligence, Web-Development and Computer System Designs, Cryptography, Blockchain**
 
-- Have a look at my [portfolio website](https://ask-03.vercel.app/)
+- Have a look at my [portfolio website](https://ask03.vercel.app/)
 
 - 📄 Have a look at my [resume](https://drive.google.com/file/d/1yeQ3GrRHPehAgisPOfoVK1f1mP20a0mX/view)
 - 📫 How to reach me **abhisheksinghk@iitbhilai.ac.in (abhisheksinghkushwaha22@gmail.com)**
