@@ -15,7 +15,7 @@ I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelli
 
 - Have a look at my [portfolio website](https://ask03.vercel.app/)
 
-- 📄 Have a look at my [resume](https://drive.google.com/file/d/1yeQ3GrRHPehAgisPOfoVK1f1mP20a0mX/view)
+- 📄 Have a look at my [resume](https://drive.google.com/file/d/15zS-SDdAE95RLbrdiIDvgifgCNQbCif4/view?usp=drive_link)
 - 📫 How to reach me **abhisheksinghk@iitbhilai.ac.in (abhisheksinghkushwaha22@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
@@ -32,7 +32,7 @@ I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelli
 ### Some Stats (Public Only)
 
 <p align="center" >
-<img alt="Rahul's github stats" src="https://github-readme-stats.vercel.app/api?username=ask-03&show_icons=true&theme=light"  > 
+<img alt="Abhishek's github stats" src="https://github-readme-stats.vercel.app/api?username=ask-03&show_icons=true&theme=light"  > 
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ask-03&" alt="ask-03" />
