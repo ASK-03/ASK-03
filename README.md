@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ASK-03&label=Profile%20views&color=0e75b6&style=flat" alt="ask-03" /> </p>
 
-I am a pre-final year student @IIT Bhilai in Data Science and Artificial Intelligence branch.
+I am a Graduate from IIT Bhilai in Data Science and Artificial Intelligence branch.
 
-- 🌱 I’m currently learning **Cryptography & Web3**
+- 🌱 I’m currently learning **AI Agents**
 
 - 👨‍💻 All of my projects are available at [Link](https://github.com/ASK-03?tab=repositories)
 
