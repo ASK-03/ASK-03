@@ -8,8 +8,6 @@ I'm a **backend engineer** with an AI obsession and a frontend engineer when the
 
 I'm currently working as *forward deployed engineer* at Google, where I develop data pipelines that bring in information at petabyte-scale. 
 
-Outside of work, I am exploring GO and Vectorless RAG.
-
 > Have a look at my portfolio website [ask03.in](https://ask03.in)
 
 
