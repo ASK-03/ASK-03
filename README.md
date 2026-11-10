@@ -1,6 +1,6 @@
 ## Abhishek Singh Kushwaha
 
-Software Engineer @ [GlobalLogic](https://www.globallogic.com/) | IIT Bhilai ' 25 Alumnus
+Software Engineer @ [Hitachi Digital](https://www.hitachidigital.com/) | IIT Bhilai ' 25 Alumnus
 
 ### About me
 
